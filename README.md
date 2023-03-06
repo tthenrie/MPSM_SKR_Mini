@@ -7,3 +7,5 @@
 # Klipper3d/klipper/config github page to provide the correct settings. 
 # As I used MainsailOS as my UT, I followed the MainsailOS and Klipper instructions for installation and 
 # creation of the printer.cfg file from this configuration.
+# I am not the originator of any of the code in this printer.cfg file, as stated above. Please follow all
+# installation and testing instructions provided in the MainsailOS and Klipper documentation.
