@@ -1,6 +1,6 @@
 # MPSM_SKR_Mini
 # Configuration file for the Monoprice Select Mini V2 using a BTT SKR Mini E3 V3 main board (MainsailOS/Klipper)
-#
+# and uart connection.
 # This configuration file was created using the preconfigured example file from the 
 # BigTreeTech/BIGTREETECH-SKR-mini-E3 github page to get the pin designations 
 # correct for the SKR main board, and the Klipper example configuration file for the MPSM from the 
